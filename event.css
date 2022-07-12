@@ -1,0 +1,23 @@
+body  {
+	background-image: linear-gradient(to left,#004e8e, #014684, #013d7b, #013571, #012d68, #012963, #01265f, #01225a, #012159, #012058, #002057, #001f56);
+    overflow:hidden ;
+}
+html {
+    width: 100%;
+    height: 100%;
+}
+.event-container {
+    display: flex;
+    width: 100%;
+    height: 50%;
+
+    background-color: white;
+}
+.event {
+    height: 100%;
+    width: 20%;
+}
+.event img {
+    width:100%;
+    height: 400px;
+}
